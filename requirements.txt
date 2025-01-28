@@ -3,3 +3,4 @@ uvicorn
 crewai
 groq
 pydantic
+crewai_tools
