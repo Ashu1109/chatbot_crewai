@@ -4,3 +4,4 @@ crewai
 groq
 pydantic
 crewai_tools
+langchain_ollama

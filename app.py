@@ -12,8 +12,8 @@ search_tool = SerperDevTool()
 # %%
 # Initialize the LLM
 llm = LLM(
-    model="groq/llama-3.3-70b-versatile",
-    temperature=0.7
+    model="ollama/llama3.2:3b",
+    base_url="http://localhost:11434"
 )
 
 # Define Agents
