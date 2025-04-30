@@ -5,3 +5,4 @@ groq
 pydantic
 crewai_tools
 langchain_ollama
+langchain_groq
